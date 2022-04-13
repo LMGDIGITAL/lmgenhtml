@@ -1,2 +1,2 @@
-# lmgenhtml
-mi primer sitio html
+# LMGDIGITAL
+LMG DIGITAL MEDIA
