@@ -25,7 +25,5 @@ body{
 }
 .menu li a:hover{
     background: #020DFF;
-
 }
-
 line-height:1px;
